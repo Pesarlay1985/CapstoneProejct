@@ -1,0 +1,297 @@
+2022-10-31 20:22:37,658 [main] INFO logger_file - React App is equal to React App
+2022-10-31 20:22:37,711 [main] INFO logger_file - logo is present
+2022-10-31 20:28:18,696 [main] INFO logger_file - React App is equal to React App
+2022-10-31 20:28:18,772 [main] INFO logger_file - logo is present
+2022-10-31 21:23:35,255 [main] INFO logger_file - React App is equal to React App
+2022-10-31 21:42:06,988 [main] INFO logger_file - React App is equal to React App
+2022-10-31 21:42:07,098 [main] INFO logger_file - Electronics was selected from the drop down
+2022-10-31 21:42:07,237 [main] INFO logger_file - user entered PlayStation
+2022-10-31 21:42:07,318 [main] INFO logger_file - user clicked on search button
+2022-10-31 21:42:07,422 [main] INFO logger_file - item is present
+2022-11-01 16:53:37,650 [main] INFO logger_file - React App is equal to React App
+2022-11-01 16:53:37,703 [main] INFO logger_file - logo is present
+2022-11-01 16:56:49,982 [main] INFO logger_file - React App is equal to React App
+2022-11-01 16:56:50,502 [main] INFO logger_file - Electronics was selected from the drop down
+2022-11-01 16:56:50,623 [main] INFO logger_file - user entered PlayStation
+2022-11-01 16:56:50,702 [main] INFO logger_file - user clicked on search button
+2022-11-01 16:56:50,856 [main] INFO logger_file - item is present
+2022-11-02 10:51:53,389 [main] INFO logger_file - React App is equal to React App
+2022-11-02 10:51:53,519 [main] INFO logger_file - user clicked all element
+2022-11-02 11:01:13,549 [main] INFO logger_file - React App is equal to React App
+2022-11-02 11:01:13,661 [main] INFO logger_file - user clicked all element
+2022-11-02 11:01:13,664 [main] INFO logger_file - Content Header is present
+2022-11-02 11:10:11,633 [main] INFO logger_file - React App is equal to React App
+2022-11-02 11:10:11,744 [main] INFO logger_file - user clicked all element
+2022-11-02 11:10:11,750 [main] INFO logger_file - Content Header is present
+2022-11-02 11:10:11,751 [main] INFO logger_file - User confirmed the availablilty of the Electronics menue
+2022-11-02 11:39:51,228 [main] INFO logger_file - React App is equal to React App
+2022-11-02 11:39:51,324 [main] INFO logger_file - user clicked all element
+2022-11-02 11:39:51,328 [main] INFO logger_file - Content Header is present
+2022-11-02 11:44:42,640 [main] INFO logger_file - React App is equal to React App
+2022-11-02 11:44:42,747 [main] INFO logger_file - user clicked all element
+2022-11-02 11:44:42,751 [main] INFO logger_file - Content Header is present
+2022-11-02 11:59:09,123 [main] INFO logger_file - React App is equal to React App
+2022-11-02 11:59:09,228 [main] INFO logger_file - user clicked all element
+2022-11-02 12:01:50,209 [main] INFO logger_file - React App is equal to React App
+2022-11-02 12:01:50,308 [main] INFO logger_file - user clicked all element
+2022-11-02 12:03:10,533 [main] INFO logger_file - React App is equal to React App
+2022-11-02 12:03:10,640 [main] INFO logger_file - user clicked all element
+2022-11-02 13:19:44,821 [main] INFO logger_file - React App is equal to React App
+2022-11-02 13:19:44,867 [main] INFO logger_file - car icon is present
+2022-11-02 13:20:27,586 [main] INFO logger_file - React App is equal to React App
+2022-11-02 13:20:27,630 [main] INFO logger_file - cart icon is present
+2022-11-02 13:25:12,067 [main] INFO logger_file - React App is equal to React App
+2022-11-02 13:25:12,113 [main] INFO logger_file - logo is present
+2022-11-02 13:25:14,527 [main] INFO logger_file - React App is equal to React App
+2022-11-02 13:25:14,802 [main] INFO logger_file - Electronics was selected from the drop down
+2022-11-02 13:25:14,906 [main] INFO logger_file - user entered PlayStation
+2022-11-02 13:25:14,981 [main] INFO logger_file - user clicked on search button
+2022-11-02 13:25:15,760 [main] INFO logger_file - item is present
+2022-11-02 13:25:19,695 [main] INFO logger_file - React App is equal to React App
+2022-11-02 13:25:19,806 [main] INFO logger_file - user clicked all element
+2022-11-02 13:25:23,657 [main] INFO logger_file - React App is equal to React App
+2022-11-02 13:25:23,694 [main] INFO logger_file - cart icon is present
+2022-11-02 13:29:55,519 [main] INFO logger_file - React App is equal to React App
+2022-11-02 13:29:55,566 [main] INFO logger_file - logo is present
+2022-11-02 13:29:57,722 [main] INFO logger_file - React App is equal to React App
+2022-11-02 13:29:57,993 [main] INFO logger_file - Electronics was selected from the drop down
+2022-11-02 13:29:58,091 [main] INFO logger_file - user entered PlayStation
+2022-11-02 13:29:58,159 [main] INFO logger_file - user clicked on search button
+2022-11-02 13:29:58,324 [main] INFO logger_file - item is present
+2022-11-02 13:34:31,032 [main] INFO logger_file - React App is equal to React App
+2022-11-02 13:34:31,081 [main] INFO logger_file - logo is present
+2022-11-02 13:34:33,251 [main] INFO logger_file - React App is equal to React App
+2022-11-02 13:34:33,517 [main] INFO logger_file - Electronics was selected from the drop down
+2022-11-02 13:34:33,628 [main] INFO logger_file - user entered PlayStation
+2022-11-02 13:34:33,709 [main] INFO logger_file - user clicked on search button
+2022-11-02 13:34:34,167 [main] INFO logger_file - item is present
+2022-11-02 13:34:38,127 [main] INFO logger_file - React App is equal to React App
+2022-11-02 13:34:38,273 [main] INFO logger_file - user clicked all element
+2022-11-02 13:34:40,809 [main] INFO logger_file - React App is equal to React App
+2022-11-02 13:34:40,853 [main] INFO logger_file - cart icon is present
+2022-11-02 18:18:19,605 [main] INFO logger_file - React App is equal to React App
+2022-11-02 18:18:19,760 [main] INFO logger_file - user clicked on sign in button
+2022-11-02 18:18:19,930 [main] INFO logger_file - user entered emailjohn123@gmail.compasswordKabul759339$
+2022-11-02 18:19:30,966 [main] INFO logger_file - React App is equal to React App
+2022-11-02 18:19:31,153 [main] INFO logger_file - user clicked on sign in button
+2022-11-02 18:19:31,329 [main] INFO logger_file - user entered emailjohn123@gmail.compasswordKabul759339$
+2022-11-02 18:22:59,659 [main] INFO logger_file - React App is equal to React App
+2022-11-02 18:22:59,904 [main] INFO logger_file - user clicked on sign in button
+2022-11-02 18:23:00,370 [main] INFO logger_file - user entered emailjohn123@gmail.compasswordKabul759339$
+2022-11-02 18:23:00,555 [main] INFO logger_file - user clicked on log in button
+2022-11-02 18:23:00,985 [main] INFO logger_file - user logged into account
+2022-11-02 18:53:06,715 [main] INFO logger_file - React App is equal to React App
+2022-11-02 18:53:06,874 [main] INFO logger_file - user clicked on sign in button
+2022-11-02 18:53:09,048 [main] INFO logger_file - React App is equal to React App
+2022-11-02 18:53:09,202 [main] INFO logger_file - user clicked on sign in button
+2022-11-03 14:30:12,053 [main] INFO logger_file - React App is equal to React App
+2022-11-03 14:30:12,197 [main] INFO logger_file - user clicked on Sign In button
+2022-11-03 14:30:12,465 [main] INFO logger_file - User entered emailjohn123@gmail.comPassword Kabul759339$
+2022-11-03 14:30:17,583 [main] INFO logger_file - User clicked on login button
+2022-11-03 14:38:22,587 [main] INFO logger_file - React App is equal to React App
+2022-11-03 14:38:22,789 [main] INFO logger_file - user clicked on Sign In button
+2022-11-03 14:38:23,161 [main] INFO logger_file - User entered emailjohn123@gmail.comPassword Kabul759339$
+2022-11-03 14:38:28,292 [main] INFO logger_file - User clicked on login button
+2022-11-03 14:40:31,081 [main] INFO logger_file - React App is equal to React App
+2022-11-03 14:40:31,194 [main] INFO logger_file - user clicked on Sign In button
+2022-11-03 14:40:31,467 [main] INFO logger_file - User entered emailjohn123@gmail.comPassword Kabul759339$
+2022-11-03 14:40:36,557 [main] INFO logger_file - User clicked on login button
+2022-11-03 14:45:42,803 [main] INFO logger_file - React App is equal to React App
+2022-11-03 14:45:42,921 [main] INFO logger_file - user clicked on Sign In button
+2022-11-03 14:45:43,159 [main] INFO logger_file - User entered emailjohn123@gmail.comPassword Kabul759339$
+2022-11-03 14:45:43,232 [main] INFO logger_file - User clicked on login button
+2022-11-03 15:02:29,633 [main] INFO logger_file - React App is equal to React App
+2022-11-03 15:02:29,749 [main] INFO logger_file - user clicked on Sign In button
+2022-11-03 15:02:29,998 [main] INFO logger_file - User entered emailjohn123@gmail.comPassword Kabul759339$
+2022-11-03 15:02:30,067 [main] INFO logger_file - User clicked on login button
+2022-11-03 15:11:31,104 [main] INFO logger_file - React App is equal to React App
+2022-11-03 15:11:31,244 [main] INFO logger_file - user clicked on Sign In button
+2022-11-03 15:11:31,501 [main] INFO logger_file - User entered emailjohn123@gmail.comPassword Kabul759339$
+2022-11-03 15:11:31,573 [main] INFO logger_file - User clicked on login button
+2022-11-03 15:14:25,539 [main] INFO logger_file - React App is equal to React App
+2022-11-03 15:14:25,665 [main] INFO logger_file - user clicked on Sign In button
+2022-11-03 15:14:25,993 [main] INFO logger_file - User entered emailjohn123@gmail.comPassword Kabul759339$
+2022-11-03 15:14:26,102 [main] INFO logger_file - User clicked on login button
+2022-11-03 15:14:26,472 [main] INFO logger_file - User logged in into Account
+2022-11-07 11:26:26,519 [main] INFO logger_file - React App is equal to React App
+2022-11-07 11:26:26,636 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 11:26:28,838 [main] INFO logger_file - React App is equal to React App
+2022-11-07 11:26:28,951 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 11:26:33,290 [main] INFO logger_file - React App is equal to React App
+2022-11-07 11:26:33,441 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 11:30:49,315 [main] INFO logger_file - React App is equal to React App
+2022-11-07 11:30:49,471 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 11:30:51,730 [main] INFO logger_file - React App is equal to React App
+2022-11-07 11:30:51,868 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 11:30:56,067 [main] INFO logger_file - React App is equal to React App
+2022-11-07 11:30:56,215 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 11:35:05,460 [main] INFO logger_file - React App is equal to React App
+2022-11-07 11:35:05,700 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 11:35:06,083 [main] INFO logger_file - User entered emailjohn123@gmail.comPassword Kabul759339$
+2022-11-07 11:35:06,210 [main] INFO logger_file - User clicked on login button
+2022-11-07 11:35:06,616 [main] INFO logger_file - User logged in into Account
+2022-11-07 11:35:09,364 [main] INFO logger_file - React App is equal to React App
+2022-11-07 11:35:09,510 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 11:35:12,548 [main] INFO logger_file - React App is equal to React App
+2022-11-07 11:35:12,789 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 11:35:16,272 [main] INFO logger_file - React App is equal to React App
+2022-11-07 11:35:16,821 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 11:36:17,868 [main] INFO logger_file - React App is equal to React App
+2022-11-07 11:36:18,075 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 11:36:20,771 [main] INFO logger_file - React App is equal to React App
+2022-11-07 11:36:21,026 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 11:36:23,802 [main] INFO logger_file - React App is equal to React App
+2022-11-07 11:36:24,010 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 11:39:48,749 [main] INFO logger_file - React App is equal to React App
+2022-11-07 11:39:48,889 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 11:39:49,165 [main] INFO logger_file - User entered emailjohn123@gmail.comPassword Kabul759339$
+2022-11-07 11:39:49,242 [main] INFO logger_file - User clicked on login button
+2022-11-07 11:39:49,644 [main] INFO logger_file - User logged in into Account
+2022-11-07 11:39:51,852 [main] INFO logger_file - React App is equal to React App
+2022-11-07 11:39:51,989 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 11:39:52,235 [main] INFO logger_file - User entered emailpanthers1@tekschool.usPassword Tek@12345
+2022-11-07 11:39:52,312 [main] INFO logger_file - User clicked on login button
+2022-11-07 11:40:27,226 [main] INFO logger_file - React App is equal to React App
+2022-11-07 11:40:27,390 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 11:40:27,718 [main] INFO logger_file - User entered emailjohn123@gmail.comPassword Kabul759339$
+2022-11-07 11:40:27,813 [main] INFO logger_file - User clicked on login button
+2022-11-07 11:40:28,163 [main] INFO logger_file - User logged in into Account
+2022-11-07 11:40:30,604 [main] INFO logger_file - React App is equal to React App
+2022-11-07 11:40:30,742 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 11:40:31,009 [main] INFO logger_file - User entered emailjohn123@gmail.comPassword Kabul759339$
+2022-11-07 11:40:31,093 [main] INFO logger_file - User clicked on login button
+2022-11-07 11:40:31,488 [main] INFO logger_file - User logged in into Account
+2022-11-07 11:40:57,270 [main] INFO logger_file - React App is equal to React App
+2022-11-07 11:40:57,413 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 11:40:57,679 [main] INFO logger_file - User entered emailjohn123@gmail.comPassword Kabul759339$
+2022-11-07 11:40:57,758 [main] INFO logger_file - User clicked on login button
+2022-11-07 11:40:58,121 [main] INFO logger_file - User logged in into Account
+2022-11-07 11:44:03,447 [main] INFO logger_file - React App is equal to React App
+2022-11-07 11:44:03,577 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 11:44:03,818 [main] INFO logger_file - User entered emailjohn123@gmail.comPassword Kabul759339$
+2022-11-07 11:44:03,891 [main] INFO logger_file - User clicked on login button
+2022-11-07 11:44:04,892 [main] INFO logger_file - User logged in into Account
+2022-11-07 11:44:08,726 [main] INFO logger_file - React App is equal to React App
+2022-11-07 11:44:08,849 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 11:44:09,092 [main] INFO logger_file - User entered emailpanthers1@tekschool.usPassword Tek@12345
+2022-11-07 11:44:09,168 [main] INFO logger_file - User clicked on login button
+2022-11-07 11:44:50,187 [main] INFO logger_file - React App is equal to React App
+2022-11-07 11:44:50,312 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 11:44:50,571 [main] INFO logger_file - User entered emailjohn123@gmail.comPassword Kabul759339$
+2022-11-07 11:44:50,653 [main] INFO logger_file - User clicked on login button
+2022-11-07 11:44:51,010 [main] INFO logger_file - User logged in into Account
+2022-11-07 11:44:53,597 [main] INFO logger_file - React App is equal to React App
+2022-11-07 11:44:53,778 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 11:44:54,204 [main] INFO logger_file - User entered emailjohn123@gmail.comPassword Kabul759339$
+2022-11-07 11:44:54,300 [main] INFO logger_file - User clicked on login button
+2022-11-07 11:45:08,769 [main] INFO logger_file - React App is equal to React App
+2022-11-07 11:45:08,946 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 11:45:09,391 [main] INFO logger_file - User entered emailjohn123@gmail.comPassword Kabul759339$
+2022-11-07 11:45:09,592 [main] INFO logger_file - User clicked on login button
+2022-11-07 11:45:10,569 [main] INFO logger_file - User logged in into Account
+2022-11-07 11:45:12,897 [main] INFO logger_file - React App is equal to React App
+2022-11-07 11:45:13,152 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 11:45:13,449 [main] INFO logger_file - User entered emailkhanjan@gmail.comPassword Kabul759339$
+2022-11-07 11:45:13,526 [main] INFO logger_file - User clicked on login button
+2022-11-07 11:45:14,848 [main] INFO logger_file - React App is equal to React App
+2022-11-07 11:45:14,977 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 11:45:15,258 [main] INFO logger_file - User entered emailkhanjan@gmail.comPassword Kabul759339$
+2022-11-07 11:45:15,341 [main] INFO logger_file - User clicked on login button
+2022-11-07 11:46:58,370 [main] INFO logger_file - React App is equal to React App
+2022-11-07 11:46:58,518 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 11:46:58,763 [main] INFO logger_file - User entered emailjohn123@gmail.comPassword Kabul759339$
+2022-11-07 11:46:58,833 [main] INFO logger_file - User clicked on login button
+2022-11-07 11:46:59,194 [main] INFO logger_file - User logged in into Account
+2022-11-07 11:47:01,604 [main] INFO logger_file - React App is equal to React App
+2022-11-07 11:47:01,717 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 11:47:01,952 [main] INFO logger_file - User entered emailsafichurchill@gmail.comPassword Kabul759339$
+2022-11-07 11:47:02,025 [main] INFO logger_file - User clicked on login button
+2022-11-07 11:47:02,383 [main] INFO logger_file - User logged in into Account
+2022-11-07 11:50:27,551 [main] INFO logger_file - React App is equal to React App
+2022-11-07 11:50:27,804 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 11:50:28,292 [main] INFO logger_file - User entered emailjohn123@gmail.comPassword Kabul759339$
+2022-11-07 11:50:28,428 [main] INFO logger_file - User clicked on login button
+2022-11-07 11:50:28,864 [main] INFO logger_file - User logged in into Account
+2022-11-07 11:50:31,763 [main] INFO logger_file - React App is equal to React App
+2022-11-07 11:50:32,017 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 11:50:32,483 [main] INFO logger_file - User entered emailsafichurchill@gmail.comPassword Kabul759339$
+2022-11-07 11:50:32,631 [main] INFO logger_file - User clicked on login button
+2022-11-07 11:50:33,040 [main] INFO logger_file - User logged in into Account
+2022-11-07 18:14:30,372 [main] INFO logger_file - React App is equal to React App
+2022-11-07 18:14:30,518 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 18:14:30,623 [main] INFO logger_file - User clicked on Create New Account Button
+2022-11-07 18:25:00,876 [main] INFO logger_file - React App is equal to React App
+2022-11-07 18:25:00,999 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 18:25:01,087 [main] INFO logger_file - User clicked on Create New Account Button
+2022-11-07 18:27:51,390 [main] INFO logger_file - React App is equal to React App
+2022-11-07 18:27:51,502 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 18:27:51,587 [main] INFO logger_file - User clicked on Create New Account Button
+2022-11-07 18:32:26,352 [main] INFO logger_file - React App is equal to React App
+2022-11-07 18:32:26,508 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 18:32:26,621 [main] INFO logger_file - User clicked on Create New Account Button
+2022-11-07 18:34:10,103 [main] INFO logger_file - React App is equal to React App
+2022-11-07 18:34:10,226 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 18:34:10,320 [main] INFO logger_file - User clicked on Create New Account Button
+2022-11-07 18:34:10,753 [main] INFO logger_file - User entered the required information into the sign up form
+2022-11-07 18:34:15,830 [main] INFO logger_file - User clicked on Create New Account Button
+2022-11-07 18:34:20,898 [main] INFO logger_file - Account was created
+2022-11-07 21:37:48,706 [main] INFO logger_file - React App is equal to React App
+2022-11-07 21:37:48,854 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 21:37:48,947 [main] INFO logger_file - User clicked on Create New Account Button
+2022-11-07 21:37:49,385 [main] INFO logger_file - User entered the required information into the sign up form
+2022-11-07 21:37:54,499 [main] INFO logger_file - User clicked on Create New Account Button
+2022-11-07 21:39:32,384 [main] INFO logger_file - React App is equal to React App
+2022-11-07 21:39:32,507 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 21:39:32,601 [main] INFO logger_file - User clicked on Create New Account Button
+2022-11-07 21:39:33,028 [main] INFO logger_file - User entered the required information into the sign up form
+2022-11-07 21:39:38,123 [main] INFO logger_file - User clicked on Create New Account Button
+2022-11-07 21:39:43,201 [main] INFO logger_file - Account was created
+2022-11-07 22:03:20,187 [main] INFO logger_file - React App is equal to React App
+2022-11-07 22:03:20,332 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 22:03:20,436 [main] INFO logger_file - User clicked on Create New Account Button
+2022-11-07 22:03:20,879 [main] INFO logger_file - User entered the required information into the sign up form
+2022-11-07 22:03:25,958 [main] INFO logger_file - User clicked on Create New Account Button
+2022-11-07 22:07:55,132 [main] INFO logger_file - React App is equal to React App
+2022-11-07 22:07:55,254 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 22:07:55,344 [main] INFO logger_file - User clicked on Create New Account Button
+2022-11-07 22:07:55,805 [main] INFO logger_file - User entered the required information into the sign up form
+2022-11-07 22:09:52,201 [main] INFO logger_file - React App is equal to React App
+2022-11-07 22:09:52,333 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 22:09:52,447 [main] INFO logger_file - User clicked on Create New Account Button
+2022-11-07 22:09:52,934 [main] INFO logger_file - User entered the required information into the sign up form
+2022-11-07 22:09:58,024 [main] INFO logger_file - User clicked on Create New Account Button
+2022-11-07 22:10:40,132 [main] INFO logger_file - React App is equal to React App
+2022-11-07 22:10:40,253 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 22:10:40,340 [main] INFO logger_file - User clicked on Create New Account Button
+2022-11-07 22:10:40,784 [main] INFO logger_file - User entered the required information into the sign up form
+2022-11-07 22:10:45,886 [main] INFO logger_file - User clicked on Create New Account Button
+2022-11-07 22:10:50,954 [main] INFO logger_file - Account was created
+2022-11-07 22:30:19,708 [main] INFO logger_file - React App is equal to React App
+2022-11-07 22:30:19,832 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 22:30:19,916 [main] INFO logger_file - User clicked on Create New Account Button
+2022-11-07 22:37:17,189 [main] INFO logger_file - React App is equal to React App
+2022-11-07 22:37:17,315 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 22:37:17,402 [main] INFO logger_file - User clicked on Create New Account Button
+2022-11-07 22:37:19,956 [main] INFO logger_file - React App is equal to React App
+2022-11-07 22:37:20,072 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 22:37:20,178 [main] INFO logger_file - User clicked on Create New Account Button
+2022-11-07 22:38:30,716 [main] INFO logger_file - React App is equal to React App
+2022-11-07 22:38:30,854 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 22:38:30,942 [main] INFO logger_file - User clicked on Create New Account Button
+2022-11-07 22:38:33,620 [main] INFO logger_file - React App is equal to React App
+2022-11-07 22:38:33,740 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 22:38:33,834 [main] INFO logger_file - User clicked on Create New Account Button
+2022-11-07 22:39:21,776 [main] INFO logger_file - React App is equal to React App
+2022-11-07 22:39:21,891 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 22:39:21,974 [main] INFO logger_file - User clicked on Create New Account Button
+2022-11-07 22:39:26,175 [main] INFO logger_file - React App is equal to React App
+2022-11-07 22:39:26,293 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 22:39:26,390 [main] INFO logger_file - User clicked on Create New Account Button
+2022-11-07 22:39:29,281 [main] INFO logger_file - React App is equal to React App
+2022-11-07 22:39:29,409 [main] INFO logger_file - user clicked on Sign In button
+2022-11-07 22:39:29,501 [main] INFO logger_file - User clicked on Create New Account Button
+2022-12-13 11:42:59,315 [main] INFO logger_file - user clicked Successfully on All section
+2022-12-13 11:42:59,558 [main] INFO logger_file - options Electronics, Computers, Smart Home, Sports and Automative are present
+2022-12-13 11:43:33,201 [main] INFO logger_file - user clicked Successfully on All section
+2022-12-13 11:43:33,504 [main] INFO logger_file - options Electronics, Computers, Smart Home, Sports and Automative are present
+2022-12-13 13:10:34,420 [main] INFO logger_file - user clicked  on All section Successfully
